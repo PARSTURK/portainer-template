@@ -145,7 +145,7 @@ If you wish to contribute make a pull request, create an issue, or email me.
 * LinuxServer.io for the old Template
 * The team behind Portainer for there awesome product and support in the community
 
-### Original Portainer Template
+## Original Portainer Template
 If you don't like my template, I'm leaving the address here so you can revert to the original Portainer template.
 
 url: `https://raw.githubusercontent.com/portainer/templates/master/templates-2.0.json`
@@ -298,7 +298,7 @@ Katkýda bulunmak istiyorsanýz, bir talepte bulunun, bir sorun oluþturun veya ban
 * Eski Þablon için LinuxServer.io
 * Toplulukta harika ürün ve destek için Portainer'ýn arkasýndaki ekip
 
-### Orjinal Portainer Þablonu
+## Orjinal Portainer Þablonu
 Þablonumu beðenmediyseniz, orijinal Portainer þablonuna dönebilmeniz için adresi buraya býrakýyorum.
 
 url: `https://raw.githubusercontent.com/portainer/templates/master/templates-2.0.json`
