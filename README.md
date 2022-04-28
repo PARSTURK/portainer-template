@@ -1,3 +1,6 @@
+## EN
+---
+
 # Portainer V2 Templates for Selfhosted Projects
 
 This is a template focused on helping people spin up selfhosted services using Portainer.
@@ -142,3 +145,151 @@ If you wish to contribute make a pull request, create an issue, or email me.
 ## Acknowledgments
 * LinuxServer.io for the old Template
 * The team behind Portainer for there awesome product and support in the community
+
+---
+## TR
+
+# Kendi Kendine Barýndýrýlan Projeler için Portainer V2 Þablonlarý
+
+Bu, insanlarýn Portainer kullanarak kendi kendine barýndýrýlan hizmetleri baþlatmasýna yardýmcý olmaya odaklanan bir þablondur.
+
+url: `https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Template/template-v2.json`
+
+### Önkoþullar
+
+1. Docker'ýn kurulu olduðu bir sunucu/NAS
+2. Bir Portainer kurulumu.
+
+*Bizde olmayan bir þey mi istiyorsunuz? Bir sorun oluþturun ve eklemeye çalýþalým*
+
+### Yükleme
+1. Portainer kurulumunuza giriþ yapýn, ayarlara gidin
+2. Harici þablonlarý kullan'ý etkinleþtirin
+3. URL'yi ekleyin: `https://raw.githubusercontent.com/PARSTURK/porttainer-template/master/Template/template-v2.json`, ardýndan uygulama þablonlarýna gidin ve en üstteki yenile düðmesine basýn.
+
+### Bilgi
+Tüm þablonlar, sürücünüzdeki çeþitli yerlere baðlayacak þekilde yapýlandýrýlmýþtýr. Bu dal OMV'ye ihtiyaç duymadan çalýþýr. Aþaðýdaki klasörlerin tümü /portiner/ içinde oluþturulur.
+
+* **Files** - Genel dosya depolama.
+  * **AppData** - Uygulama verilerinin (sunulan verilerle ilgisi olmayan) depolandýðý alt klasör.
+    * **Config** - Her kapsayýcý için yapýlandýrma dosyalarýnýn depolandýðý alt klasör.
+* **Downloads** - Bittorrent ve usenet indiricilerinin dosyalarý indirdiði yer.
+* **TV** - TV þovlarýnýn indirildikten sonra depolandýðý/taþýndýðý yer.
+* **Movies** - Filmlerin indirildikten sonra depolandýðý/taþýndýðý yer.
+* **Music** - Müziðin indirildikten sonra depolandýðý/taþýndýðý yer.
+* **Books** - Kitaplarýn indirildikten sonra depolandýðý/taþýndýðý yer.
+* **Comics** - Çizgi romanlarýn indirildikten sonra depolandýðý/taþýndýðý yer.
+* **Podcasts** - Podcast'lerin indirildikten sonra depolandýðý/taþýndýðý yer.
+
+
+## Uygulama Listesi
+  - Adguard 
+  - Airsonic 
+  - Authelia 
+  - Bazarr 
+  - Beets 
+  - Vaultwarden 
+  - Booksonic 
+  - Cops 
+  - Calibre-web 
+  - Chevereto 
+  - Chowdown 
+  - Code-server 
+  - Codiad 
+  - Couchpotato 
+  - Daapd 
+  - Dashmachine 
+  - Davos 
+  - Deemix 
+  - Domoticz 
+  - Duckdns 
+  - Duplicati 
+  - Emby 
+  - EmbyStat 
+  - Filebrowser 
+  - Freshrss 
+  - Gazee 
+  - Guacamole 
+  - Grocy 
+  - Htpcmanager 
+  - Headphones 
+  - Heimdall 
+  - Homer 
+  - Huginn 
+  - Invoice_ninja 
+  - Jackett 
+  - Jellyfin 
+  - kodi-headless 
+  - Lazylibrarian 
+  - Letsencrypt / SWAG 
+  - Librespeed 
+  - Lidarr 
+  - Lychee
+  - Mariadb 
+  - Mcmyadmin2 
+  - Medusa 
+  - Minetest 
+  - Minisatip 
+  - Mstream 
+  - Murmur 
+  - Musicbrainz 
+  - Muximux 
+  - Mylar 
+  - Nzbget 
+  - Nzbhydra2 
+  - Nextcloud 
+  - Nginx 
+  - Nginx-proxy-manager 
+  - Oscam 
+  - Ombi 
+  - Openvpn-as 
+  - Organizr-v2 
+  - Overseerr 
+  - Owncloud 
+  - Petio 
+  - Photoshow 
+  - Pihole 
+  - Piwigo 
+  - Plex 
+  - Plexrequests 
+  - Projectsend 
+  - Protonmail-bridge 
+  - Prowlarr 
+  - Pydio 
+  - Qbittorrent 
+  - Quassel-core 
+  - Radarr 
+  - Reactive-resume 
+  - Resilio-sync 
+  - Rutorrent 
+  - Sabnzbd 
+  - Shiori 
+  - Sickchill 
+  - Sickgear 
+  - Smokeping 
+  - Snibox 
+  - Sonarr 
+  - Syncthing 
+  - Tautulli 
+  - Thelounge 
+  - Tiddlywiki 
+  - Tt-rss 
+  - Transmission 
+  - Transmission-openvpn 
+  - Tvheadend 
+  - Ubooquity 
+  - Unifi-controller 
+  - Watchtower 
+  - Webgrabplus 
+  - Whoogle 
+  - Wikijs 
+  - Yacht 
+  - Youtubedl-material 
+  - Znc 
+
+## Katký
+Katkýda bulunmak istiyorsanýz, bir talepte bulunun, bir sorun oluþturun veya bana e-posta gönderin.
+
+## Teþekkür
+* Eski Þablon için LinuxServer.io
+* Toplulukta harika ürün ve destek için Portainer'ýn arkasýndaki ekip
