@@ -1,5 +1,4 @@
 ## EN
----
 
 # Portainer V2 Templates for Selfhosted Projects
 
@@ -34,109 +33,109 @@ All templates are already configured to bind mount to various places on your dri
 
 
 ## App List
-  - Adguard 
-  - Airsonic 
-  - Authelia 
-  - Bazarr 
-  - Beets 
-  - Vaultwarden 
-  - Booksonic 
-  - Cops 
-  - Calibre-web 
-  - Chevereto 
-  - Chowdown 
-  - Code-server 
-  - Codiad 
-  - Couchpotato 
-  - Daapd 
-  - Dashmachine 
-  - Davos 
-  - Deemix 
-  - Domoticz 
-  - Duckdns 
-  - Duplicati 
-  - Emby 
-  - EmbyStat 
-  - Filebrowser 
-  - Freshrss 
-  - Gazee 
-  - Guacamole 
-  - Grocy 
-  - Htpcmanager 
-  - Headphones 
-  - Heimdall 
-  - Homer 
-  - Huginn 
-  - Invoice_ninja 
-  - Jackett 
-  - Jellyfin 
-  - kodi-headless 
-  - Lazylibrarian 
-  - Letsencrypt / SWAG 
-  - Librespeed 
-  - Lidarr 
+  - Adguard
+  - Airsonic
+  - Authelia
+  - Bazarr
+  - Beets
+  - Vaultwarden
+  - Booksonic
+  - Cops
+  - Calibre-web
+  - Chevereto
+  - Chowdown
+  - Code-server
+  - Codiad
+  - Couchpotato
+  - Daapd
+  - Dashmachine
+  - Davos
+  - Deemix
+  - Domoticz
+  - Duckdns
+  - Duplicati
+  - Emby
+  - EmbyStat
+  - Filebrowser
+  - Freshrss
+  - Gazee
+  - Guacamole
+  - Grocy
+  - Htpcmanager
+  - Headphones
+  - Heimdall
+  - Homer
+  - Huginn
+  - Invoice_ninja
+  - Jackett
+  - Jellyfin
+  - kodi-headless
+  - Lazylibrarian
+  - Letsencrypt / SWAG
+  - Librespeed
+  - Lidarr
   - Lychee
-  - Mariadb 
-  - Mcmyadmin2 
-  - Medusa 
-  - Minetest 
-  - Minisatip 
-  - Mstream 
-  - Murmur 
-  - Musicbrainz 
-  - Muximux 
-  - Mylar 
-  - Nzbget 
-  - Nzbhydra2 
-  - Nextcloud 
-  - Nginx 
-  - Nginx-proxy-manager 
-  - Oscam 
-  - Ombi 
-  - Openvpn-as 
-  - Organizr-v2 
-  - Overseerr 
-  - Owncloud 
-  - Petio 
-  - Photoshow 
-  - Pihole 
-  - Piwigo 
-  - Plex 
-  - Plexrequests 
-  - Projectsend 
-  - Protonmail-bridge 
-  - Prowlarr 
-  - Pydio 
-  - Qbittorrent 
-  - Quassel-core 
-  - Radarr 
-  - Reactive-resume 
-  - Resilio-sync 
-  - Rutorrent 
-  - Sabnzbd 
-  - Shiori 
-  - Sickchill 
-  - Sickgear 
-  - Smokeping 
-  - Snibox 
-  - Sonarr 
-  - Syncthing 
-  - Tautulli 
-  - Thelounge 
-  - Tiddlywiki 
-  - Tt-rss 
-  - Transmission 
-  - Transmission-openvpn 
-  - Tvheadend 
-  - Ubooquity 
-  - Unifi-controller 
-  - Watchtower 
-  - Webgrabplus 
-  - Whoogle 
-  - Wikijs 
-  - Yacht 
-  - Youtubedl-material 
-  - Znc 
+  - Mariadb
+  - Mcmyadmin2
+  - Medusa
+  - Minetest
+  - Minisatip
+  - Mstream
+  - Murmur
+  - Musicbrainz
+  - Muximux
+  - Mylar
+  - Nzbget
+  - Nzbhydra2
+  - Nextcloud
+  - Nginx
+  - Nginx-proxy-manager
+  - Oscam
+  - Ombi
+  - Openvpn-as
+  - Organizr-v2
+  - Overseerr
+  - Owncloud
+  - Petio
+  - Photoshow
+  - Pihole
+  - Piwigo
+  - Plex
+  - Plexrequests
+  - Projectsend
+  - Protonmail-bridge
+  - Prowlarr
+  - Pydio
+  - Qbittorrent
+  - Quassel-core
+  - Radarr
+  - Reactive-resume
+  - Resilio-sync
+  - Rutorrent
+  - Sabnzbd
+  - Shiori
+  - Sickchill
+  - Sickgear
+  - Smokeping
+  - Snibox
+  - Sonarr
+  - Syncthing
+  - Tautulli
+  - Thelounge
+  - Tiddlywiki
+  - Tt-rss
+  - Transmission
+  - Transmission-openvpn
+  - Tvheadend
+  - Ubooquity
+  - Unifi-controller
+  - Watchtower
+  - Webgrabplus
+  - Whoogle
+  - Wikijs
+  - Yacht
+  - Youtubedl-material
+  - Znc
 
 ## Contributing
 If you wish to contribute make a pull request, create an issue, or email me.
@@ -145,6 +144,11 @@ If you wish to contribute make a pull request, create an issue, or email me.
 ## Acknowledgments
 * LinuxServer.io for the old Template
 * The team behind Portainer for there awesome product and support in the community
+
+### Original Portainer Template
+If you don't like my template, I'm leaving the address here so you can revert to the original Portainer template.
+
+url: `https://raw.githubusercontent.com/portainer/templates/master/templates-2.0.json`
 
 ---
 ## TR
@@ -183,109 +187,109 @@ Tüm þablonlar, sürücünüzdeki çeþitli yerlere baðlayacak þekilde yapýlandýrýlmýþt
 
 
 ## Uygulama Listesi
-  - Adguard 
-  - Airsonic 
-  - Authelia 
-  - Bazarr 
-  - Beets 
-  - Vaultwarden 
-  - Booksonic 
-  - Cops 
-  - Calibre-web 
-  - Chevereto 
-  - Chowdown 
-  - Code-server 
-  - Codiad 
-  - Couchpotato 
-  - Daapd 
-  - Dashmachine 
-  - Davos 
-  - Deemix 
-  - Domoticz 
-  - Duckdns 
-  - Duplicati 
-  - Emby 
-  - EmbyStat 
-  - Filebrowser 
-  - Freshrss 
-  - Gazee 
-  - Guacamole 
-  - Grocy 
-  - Htpcmanager 
-  - Headphones 
-  - Heimdall 
-  - Homer 
-  - Huginn 
-  - Invoice_ninja 
-  - Jackett 
-  - Jellyfin 
-  - kodi-headless 
-  - Lazylibrarian 
-  - Letsencrypt / SWAG 
-  - Librespeed 
-  - Lidarr 
+  - Adguard
+  - Airsonic
+  - Authelia
+  - Bazarr
+  - Beets
+  - Vaultwarden
+  - Booksonic
+  - Cops
+  - Calibre-web
+  - Chevereto
+  - Chowdown
+  - Code-server
+  - Codiad
+  - Couchpotato
+  - Daapd
+  - Dashmachine
+  - Davos
+  - Deemix
+  - Domoticz
+  - Duckdns
+  - Duplicati
+  - Emby
+  - EmbyStat
+  - Filebrowser
+  - Freshrss
+  - Gazee
+  - Guacamole
+  - Grocy
+  - Htpcmanager
+  - Headphones
+  - Heimdall
+  - Homer
+  - Huginn
+  - Invoice_ninja
+  - Jackett
+  - Jellyfin
+  - kodi-headless
+  - Lazylibrarian
+  - Letsencrypt / SWAG
+  - Librespeed
+  - Lidarr
   - Lychee
-  - Mariadb 
-  - Mcmyadmin2 
-  - Medusa 
-  - Minetest 
-  - Minisatip 
-  - Mstream 
-  - Murmur 
-  - Musicbrainz 
-  - Muximux 
-  - Mylar 
-  - Nzbget 
-  - Nzbhydra2 
-  - Nextcloud 
-  - Nginx 
-  - Nginx-proxy-manager 
-  - Oscam 
-  - Ombi 
-  - Openvpn-as 
-  - Organizr-v2 
-  - Overseerr 
-  - Owncloud 
-  - Petio 
-  - Photoshow 
-  - Pihole 
-  - Piwigo 
-  - Plex 
-  - Plexrequests 
-  - Projectsend 
-  - Protonmail-bridge 
-  - Prowlarr 
-  - Pydio 
-  - Qbittorrent 
-  - Quassel-core 
-  - Radarr 
-  - Reactive-resume 
-  - Resilio-sync 
-  - Rutorrent 
-  - Sabnzbd 
-  - Shiori 
-  - Sickchill 
-  - Sickgear 
-  - Smokeping 
-  - Snibox 
-  - Sonarr 
-  - Syncthing 
-  - Tautulli 
-  - Thelounge 
-  - Tiddlywiki 
-  - Tt-rss 
-  - Transmission 
-  - Transmission-openvpn 
-  - Tvheadend 
-  - Ubooquity 
-  - Unifi-controller 
-  - Watchtower 
-  - Webgrabplus 
-  - Whoogle 
-  - Wikijs 
-  - Yacht 
-  - Youtubedl-material 
-  - Znc 
+  - Mariadb
+  - Mcmyadmin2
+  - Medusa
+  - Minetest
+  - Minisatip
+  - Mstream
+  - Murmur
+  - Musicbrainz
+  - Muximux
+  - Mylar
+  - Nzbget
+  - Nzbhydra2
+  - Nextcloud
+  - Nginx
+  - Nginx-proxy-manager
+  - Oscam
+  - Ombi
+  - Openvpn-as
+  - Organizr-v2
+  - Overseerr
+  - Owncloud
+  - Petio
+  - Photoshow
+  - Pihole
+  - Piwigo
+  - Plex
+  - Plexrequests
+  - Projectsend
+  - Protonmail-bridge
+  - Prowlarr
+  - Pydio
+  - Qbittorrent
+  - Quassel-core
+  - Radarr
+  - Reactive-resume
+  - Resilio-sync
+  - Rutorrent
+  - Sabnzbd
+  - Shiori
+  - Sickchill
+  - Sickgear
+  - Smokeping
+  - Snibox
+  - Sonarr
+  - Syncthing
+  - Tautulli
+  - Thelounge
+  - Tiddlywiki
+  - Tt-rss
+  - Transmission
+  - Transmission-openvpn
+  - Tvheadend
+  - Ubooquity
+  - Unifi-controller
+  - Watchtower
+  - Webgrabplus
+  - Whoogle
+  - Wikijs
+  - Yacht
+  - Youtubedl-material
+  - Znc
 
 ## Katký
 Katkýda bulunmak istiyorsanýz, bir talepte bulunun, bir sorun oluþturun veya bana e-posta gönderin.
@@ -293,3 +297,8 @@ Katkýda bulunmak istiyorsanýz, bir talepte bulunun, bir sorun oluþturun veya ban
 ## Teþekkür
 * Eski Þablon için LinuxServer.io
 * Toplulukta harika ürün ve destek için Portainer'ýn arkasýndaki ekip
+
+### Orjinal Portainer Þablonu
+Þablonumu beðenmediyseniz, orijinal Portainer þablonuna dönebilmeniz için adresi buraya býrakýyorum.
+
+url: `https://raw.githubusercontent.com/portainer/templates/master/templates-2.0.json`
