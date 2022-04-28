@@ -1,0 +1,173 @@
+## JSON Sort;
+    - categories
+    - description
+    - env
+    - image
+    - logo
+    - name
+    - privileged
+    - note
+    - platform
+    - ports
+    - restart_policy
+    - repository
+    - stackfile
+    - title
+    - type
+    - interactive
+    - command
+    - volumes
+
+
+
+## Categories:
+    - Authentication
+    - Backup
+    - Blog
+    - Books
+    - Chat
+    - CMS
+    - Cloud
+    - Continuous Integration
+    - Database
+    - Development
+    - Docker
+    - Downloaders
+    - DNS
+    - File System
+    - FTP
+    - Finance
+    - Home Automation
+    - Log Management
+    - Maintenance
+    - Management
+    - Marketing
+    - Messaging
+    - Messenger
+    - Monitoring
+    - Music
+    - OMS
+    - Operating System
+    - Other
+    - Photo
+    - Portainer
+    - Productivity
+    - Project Management
+    - Proxy
+    - Search Engine
+    - Serverless
+    - Storage
+    - Tools
+    - Video
+    - Voice
+    - VPN
+    - Web
+    - Web Server
+    - Wiki
+
+
+
+## App List
+    - Adguard
+    - Airsonic
+    - Authelia
+    - Bazarr
+    - Beets
+    - Vaultwarden
+    - Booksonic
+    - Cops
+    - Calibre-web
+    - Chevereto
+    - Chowdown
+    - Code-server
+    - Codiad
+    - Couchpotato
+    - Daapd
+    - Dashmachine
+    - Davos
+    - Deemix
+    - Domoticz
+    - Duckdns
+    - Duplicati
+    - Emby
+    - EmbyStat
+    - Filebrowser
+    - Freshrss
+    - Gazee
+    - Guacamole
+    - Grocy
+    - Htpcmanager
+    - Headphones
+    - Heimdall
+    - Homer
+    - Huginn
+    - Invoice_ninja
+    - Jackett
+    - Jellyfin
+    - kodi-headless
+    - Lazylibrarian
+    - Letsencrypt / SWAG
+    - Librespeed
+    - Lidarr
+    - Lychee
+    - Mariadb
+    - Mcmyadmin2
+    - Medusa
+    - Minetest
+    - Minisatip
+    - Mstream
+    - Murmur
+    - Musicbrainz
+    - Muximux
+    - Mylar
+    - Nzbget
+    - Nzbhydra2
+    - Nextcloud
+    - Nginx
+    - Nginx-proxy-manager
+    - Oscam
+    - Ombi
+    - Openvpn-as
+    - Organizr-v2
+    - Overseerr
+    - Owncloud
+    - Petio
+    - Photoshow
+    - Pihole
+    - Piwigo
+    - Plex
+    - Plexrequests
+    - Projectsend
+    - Protonmail-bridge
+    - Prowlarr
+    - Pydio
+    - Qbittorrent
+    - Quassel-core
+    - Radarr
+    - Reactive-resume
+    - Resilio-sync
+    - Rutorrent
+    - Sabnzbd
+    - Shiori
+    - Sickchill
+    - Sickgear
+    - Smokeping
+    - Snibox
+    - Sonarr
+    - Syncthing
+    - Tautulli
+    - Thelounge
+    - Tiddlywiki
+    - Tt-rss
+    - Transmission
+    - Transmission-openvpn
+    - Tvheadend
+    - Ubooquity
+    - Unifi-controller
+    - Watchtower
+    - Webgrabplus
+    - Whoogle
+    - Wikijs
+    - Yacht
+    - Youtubedl-material
+    - Znc
