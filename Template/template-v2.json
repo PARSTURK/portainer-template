@@ -4,7 +4,7 @@
             "categories": [
                 "Other"
             ],
-            "description": "AdGuard Home is a network-wide software for blocking ads & tracking. After you set it up, it’ll cover ALL your home devices, and you don’t need any client-side software for that. With the rise of Internet-Of-Things and connected devices, it becomes more and more important to be able to control your whole network.",
+            "description": "AdGuard Home is a network-wide software for blocking ads & tracking. After you set it up, itâ€™ll cover ALL your home devices, and you donâ€™t need any client-side software for that. With the rise of Internet-Of-Things and connected devices, it becomes more and more important to be able to control your whole network.",
             "env": [{
                     "default": "1000",
                     "label": "PUID",
@@ -1138,7 +1138,7 @@
             "categories": [
                 "Music"
             ],
-            "description": "Headphones is an automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, µTorrent and Blackhole.",
+            "description": "Headphones is an automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, ÂµTorrent and Blackhole.",
             "env": [{
                     "default": "1000",
                     "label": "PUID",
@@ -1390,7 +1390,7 @@
             "categories": [
                 "Video"
             ],
-            "description": "Headless installation of Kodi™ (formerly known as XBMC™), to enable library updates.",
+            "description": "Headless installation of Kodiâ„¢ (formerly known as XBMCâ„¢), to enable library updates.",
             "env": [{
                     "default": "1000",
                     "label": "PUID",
@@ -2353,7 +2353,7 @@
                 "Other",
                 "Web"
             ],
-            "description": "ownCloud is a self-hosted file sync and share server. It provides access to your data through a web interface, sync clients or WebDAV while providing a platform to view, sync and share across devices easily—all under your control. ownCloud’s open architecture is extensible via a simple but powerful API for applications and plugins and it works with any storage.",
+            "description": "ownCloud is a self-hosted file sync and share server. It provides access to your data through a web interface, sync clients or WebDAV while providing a platform to view, sync and share across devices easilyâ€”all under your control. ownCloudâ€™s open architecture is extensible via a simple but powerful API for applications and plugins and it works with any storage.",
             "env": [{
                     "default": "1000",
                     "label": "PUID",
@@ -2758,7 +2758,7 @@
             "categories": [
                 "Downloaders"
             ],
-            "description": "The qBittorrent project aims to provide an open-source software alternative to µTorrent. qBittorrent is based on the Qt toolkit and libtorrent-rasterbar library.",
+            "description": "The qBittorrent project aims to provide an open-source software alternative to ÂµTorrent. qBittorrent is based on the Qt toolkit and libtorrent-rasterbar library.",
             "env": [{
                     "default": "1000",
                     "label": "PUID",
@@ -2828,7 +2828,7 @@
                 "Downloaders",
                 "Video"
             ],
-            "description": "Radarr - A fork of Sonarr to work with movies à la Couchpotato.",
+            "description": "Radarr - A fork of Sonarr to work with movies Ã  la Couchpotato.",
             "env": [{
                     "default": "1000",
                     "label": "PUID",
@@ -3374,7 +3374,7 @@
             "categories": [
                 "Downloaders"
             ],
-            "description": "Transmission is designed for easy, powerful use. Transmission has the features you want from a BitTorrent client: encryption, a web interface, peer exchange, magnet links, DHT, µTP, UPnP and NAT-PMP port forwarding, webseed support, watch directories, tracker editing, global and per-torrent speed limits, and more.",
+            "description": "Transmission is designed for easy, powerful use. Transmission has the features you want from a BitTorrent client: encryption, a web interface, peer exchange, magnet links, DHT, ÂµTP, UPnP and NAT-PMP port forwarding, webseed support, watch directories, tracker editing, global and per-torrent speed limits, and more.",
             "env": [{
                     "default": "1000",
                     "label": "PUID",
