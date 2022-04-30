@@ -32,12 +32,14 @@ All templates are already configured to bind mount to various places on your dri
 * **Podcasts** - Where podcasts are stored/moved to after downloaded.
 
 ## Planned Apps
-- [ ] Wekan
-- [ ] Mattermost
-- [ ] Dokuwiki
-- [ ] Grafana
-- [ ] Grav
-- [ ] Yourls
+- [ ] Wekan (https://wekan.github.io/)
+- [ ] Mattermost (https://mattermost.com/)
+- [ ] Dokuwiki (https://www.dokuwiki.org/)
+- [ ] Grafana (https://grafana.com/)
+- [ ] Grav (https://getgrav.org/)
+- [ ] Yourls (https://yourls.org/)
+- [ ] Standard Notes (https://standardnotes.com/)
+- [ ] Docusaurus (https://docusaurus.io/)
 
 ## App List
   - Adguard
@@ -193,12 +195,14 @@ Tüm þablonlar, sürücünüzdeki çeþitli yerlere baðlayacak þekilde yapýlandýrýlmýþt
 * **Podcasts** - Podcast'lerin indirildikten sonra depolandýðý/taþýndýðý yer.
 
 ## Planlanan Uygulamalar
-- [ ] Wekan
-- [ ] Mattermost
-- [ ] Dokuwiki
-- [ ] Grafana
-- [ ] Grav
-- [ ] Yourls
+- [ ] Wekan (https://wekan.github.io/)
+- [ ] Mattermost (https://mattermost.com/)
+- [ ] Dokuwiki (https://www.dokuwiki.org/)
+- [ ] Grafana (https://grafana.com/)
+- [ ] Grav (https://getgrav.org/)
+- [ ] Yourls (https://yourls.org/)
+- [ ] Standard Notes (https://standardnotes.com/)
+- [ ] Docusaurus (https://docusaurus.io/)
 
 ## Uygulama Listesi
   - Adguard
