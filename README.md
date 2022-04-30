@@ -31,6 +31,13 @@ All templates are already configured to bind mount to various places on your dri
 * **Comics** - Where comics are stored/moved to after downloaded.
 * **Podcasts** - Where podcasts are stored/moved to after downloaded.
 
+## Planned Apps
+- [ ] Wekan
+- [ ] Mattermost
+- [ ] Dokuwiki
+- [ ] Grafana
+- [ ] Grav
+- [ ] Yourls
 
 ## App List
   - Adguard
@@ -185,6 +192,13 @@ Tüm þablonlar, sürücünüzdeki çeþitli yerlere baðlayacak þekilde yapýlandýrýlmýþt
 * **Comics** - Çizgi romanlarýn indirildikten sonra depolandýðý/taþýndýðý yer.
 * **Podcasts** - Podcast'lerin indirildikten sonra depolandýðý/taþýndýðý yer.
 
+## Planlanan Uygulamalar
+- [ ] Wekan
+- [ ] Mattermost
+- [ ] Dokuwiki
+- [ ] Grafana
+- [ ] Grav
+- [ ] Yourls
 
 ## Uygulama Listesi
   - Adguard

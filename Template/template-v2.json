@@ -6,7 +6,7 @@
             ],
             "description": "Docker image registry",
             "image": "registry:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/registry.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/docker.png",
             "name": "registry",
             "platform": "linux",
             "ports": [
@@ -24,7 +24,7 @@
             ],
             "description": "Debian-based Linux operating system",
             "image": "ubuntu:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/ubuntu.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/ubuntu.png",
             "name": "ubuntu",
             "platform": "linux",
             "title": "Ubuntu",
@@ -38,7 +38,7 @@
             ],
             "description": "JavaScript-based platform for server-side and networking applications",
             "image": "node:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/node.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/node.png",
             "name": "nodejs",
             "platform": "linux",
             "title": "NodeJS",
@@ -54,7 +54,7 @@
             ],
             "description": "High performance web server",
             "image": "nginx:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/nginx.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/nginx.png",
             "name": "nginx",
             "platform": "linux",
             "ports": [
@@ -78,7 +78,7 @@
             ],
             "description": "Open-source HTTP server",
             "image": "httpd:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/httpd.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/httpd.png",
             "name": "httpd",
             "platform": "linux",
             "ports": [
@@ -97,7 +97,7 @@
             ],
             "description": "Open-source web server with automatic HTTPS written in Go",
             "image": "caddy:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/caddy.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/caddy.png",
             "name": "caddy",
             "platform": "linux",
             "ports": [
@@ -125,7 +125,7 @@
                 }
             ],
             "image": "mysql/mysql-server:5.7",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/mysql.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/mysql.png",
             "name": "mysql",
             "platform": "linux",
             "ports": [
@@ -152,7 +152,7 @@
                 "label": "Root password"
             }],
             "image": "mariadb:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/mariadb.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/mariadb.png",
             "name": "mariadb",
             "platform": "linux",
             "ports": [
@@ -179,7 +179,7 @@
                 }
             ],
             "image": "postgres:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/postgres.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/postgres.png",
             "name": "postgresql",
             "platform": "linux",
             "ports": [
@@ -197,7 +197,7 @@
             ],
             "description": "Open-source document-oriented database",
             "image": "mongo:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/mongo.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/mongo.png",
             "name": "mongo",
             "platform": "linux",
             "ports": [
@@ -215,7 +215,7 @@
             ],
             "description": "An open-source distributed SQL database",
             "image": "crate:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/cratedb.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/cratedb.png",
             "name": "dratedb",
             "platform": "linux",
             "ports": [
@@ -234,7 +234,7 @@
             ],
             "description": "Open-source search and analytics engine",
             "image": "docker.elastic.co/elasticsearch/elasticsearch:7.15.1",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/elasticsearch.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/elasticsearch.png",
             "name": "elasticsearch",
             "platform": "linux",
             "ports": [
@@ -254,7 +254,7 @@
             ],
             "description": "Open-source end-to-end software development platform",
             "image": "gitlab/gitlab-ce:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/gitlab_ce.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/gitlab_ce.png",
             "name": "gitlab-ce",
             "note": "Default username is <b>root</b>. Check the <a href=\"https://docs.gitlab.com/omnibus/docker/README.html#after-starting-a-container\" target=\"_blank\">Gitlab documentation</a> to get started.",
             "platform": "linux",
@@ -291,7 +291,7 @@
                 }
             ],
             "image": "quay.io/minio/minio:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/minio.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/minio.png",
             "name": "minio",
             "platform": "linux",
             "ports": [
@@ -325,7 +325,7 @@
                 }
             ],
             "image": "scality/s3server",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/scality-s3.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/scality-s3.png",
             "name": "scality-s3",
             "platform": "linux",
             "ports": [
@@ -357,7 +357,7 @@
                 }
             ],
             "image": "mcr.microsoft.com/mssql/server:2019-latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/microsoft.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/microsoft.png",
             "name": "sql-server",
             "note": "Password needs to include at least 8 characters including uppercase, lowercase letters, base-10 digits and/or non-alphanumeric symbols.",
             "platform": "linux",
@@ -383,7 +383,7 @@
                 }
             ],
             "image": "microsoft/mssql-server-windows-developer:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/microsoft.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/microsoft.png",
             "name": "sql-server",
             "note": "Password needs to include at least 8 characters including uppercase, lowercase letters, base-10 digits and/or non-alphanumeric symbols.",
             "platform": "windows",
@@ -412,7 +412,7 @@
                 }
             ],
             "image": "microsoft/mssql-server-windows-express:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/microsoft.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/microsoft.png",
             "name": "sql-server-express",
             "note": "Password needs to include at least 8 characters including uppercase, lowercase letters, base-10 digits and/or non-alphanumeric symbols.",
             "platform": "windows",
@@ -431,7 +431,7 @@
             ],
             "description": "Open-source enterprise search platform",
             "image": "solr:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/solr.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/solr.png",
             "name": "solr",
             "platform": "linux",
             "ports": [
@@ -449,7 +449,7 @@
             ],
             "description": "Open-source in-memory data structure store",
             "image": "redis:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/redis.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/redis.png",
             "name": "redis",
             "platform": "linux",
             "ports": [
@@ -470,7 +470,7 @@
                 "name": "REDIS_PASSWD",
                 "label": "Redis password"
             }],
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/redis.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/redis.png",
             "name": "redis-cluster",
             "platform": "linux",
             "repository": {
@@ -487,7 +487,7 @@
             ],
             "description": "Highly reliable enterprise messaging system",
             "image": "rabbitmq:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/rabbitmq.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/rabbitmq.png",
             "name": "rabbitmq",
             "platform": "linux",
             "ports": [
@@ -506,7 +506,7 @@
             ],
             "description": "Free and open-source blogging platform",
             "image": "ghost:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/ghost.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/ghost.png",
             "name": "ghost",
             "note": "Access the blog management interface under <code>/ghost/</code>.",
             "platform": "linux",
@@ -535,7 +535,7 @@
                 }
             ],
             "image": "joomla:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/joomla.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/joomla.png",
             "name": "joomla",
             "platform": "linux",
             "ports": [
@@ -553,7 +553,7 @@
             ],
             "description": "Open-source content management framework",
             "image": "drupal:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/drupal.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/drupal.png",
             "name": "drupal",
             "platform": "linux",
             "ports": [
@@ -571,7 +571,7 @@
             ],
             "description": "A free and open-source CMS built on top of Zope",
             "image": "plone:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/plone.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/plone.png",
             "name": "plone",
             "note": "Default user and password are admin/admin",
             "platform": "linux",
@@ -600,7 +600,7 @@
                 }
             ],
             "image": "sematext/sematext-agent-docker:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/sematext_agent.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/sematext_agent.png",
             "name": "sematext-agent",
             "privileged": true,
             "platform": "linux",
@@ -621,7 +621,7 @@
                 "label": "Datadog API key"
             }],
             "image": "datadog/agent:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/datadog_agent.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/datadog_agent.png",
             "name": "datadog-agent",
             "platform": "linux",
             "title": "Datadog agent",
@@ -659,7 +659,7 @@
                 }
             ],
             "image": "mautic/mautic:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/mautic.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/mautic.png",
             "name": "mautic",
             "platform": "linux",
             "ports": [
@@ -677,7 +677,7 @@
             ],
             "description": "Open-source continuous integration tool",
             "image": "jenkins/jenkins:lts-jdk11",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/jenkins.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/jenkins.png",
             "name": "jenkins",
             "platform": "linux",
             "ports": [
@@ -696,7 +696,7 @@
             ],
             "description": "Open-source project management tool",
             "image": "redmine:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/redmine.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/redmine.png",
             "name": "redmine",
             "note": "Default user and password are admin/admin",
             "platform": "linux",
@@ -716,7 +716,7 @@
             ],
             "description": "A web file manager",
             "image": "filebrowser/filebrowser:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/filebrowser.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/filebrowser.png",
             "name": "file-browser",
             "note": "Default credentials: admin/admin",
             "platform": "linux",
@@ -745,7 +745,7 @@
                 "preset": true
             }],
             "image": "ortussolutions/commandbox:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/ortussolutions-commandbox.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/ortussolutions-commandbox.png",
             "name": "commandbox",
             "platform": "linux",
             "ports": [
@@ -777,7 +777,7 @@
                 }
             ],
             "image": "ortussolutions/contentbox:latest",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/ortussolutions-contentbox.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/ortussolutions-contentbox.png",
             "platform": "linux",
             "name": "contentbox",
             "ports": [
@@ -799,7 +799,7 @@
                 "Portainer"
             ],
             "description": "Manage all the resources in your Swarm cluster",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/portainer.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/portainer.png",
             "name": "portainer-agent",
             "note": "The agent will be deployed globally inside your cluster and available on port 9001.",
             "platform": "linux",
@@ -815,7 +815,7 @@
                 "Serverless"
             ],
             "description": "Serverless functions made simple",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/openfaas.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/openfaas.png",
             "name": "func",
             "note": "Deploys the API gateway and sample functions. You can access the UI on port 8080. <b>Warning</b>: the name of the stack must be 'func'.",
             "platform": "linux",
@@ -831,7 +831,7 @@
                 "Serverless"
             ],
             "description": "Open-source serverless computing platform",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/ironfunctions.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/ironfunctions.png",
             "name": "ironfunctions",
             "note": "Deploys the IronFunctions API and UI.",
             "platform": "linux",
@@ -847,7 +847,7 @@
                 "Database"
             ],
             "description": "CockroachDB cluster",
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/cockroachdb.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/cockroachdb.png",
             "name": "cockroachdb",
             "note": "Deploys an insecure CockroachDB cluster, please refer to <a href=\"https://www.cockroachlabs.com/docs/stable/orchestrate-cockroachdb-with-docker-swarm.html\" target=\"_blank\">CockroachDB documentation</a> for production deployments.",
             "platform": "linux",
@@ -868,7 +868,7 @@
                 "label": "Database root password",
                 "description": "Password used by the MySQL root user."
             }],
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/wordpress.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/wordpress.png",
             "name": "wordpress",
             "note": "Deploys a WordPress instance connected to a MySQL database.",
             "platform": "linux",
@@ -889,7 +889,7 @@
                 "label": "Database root password",
                 "description": "Password used by the MySQL root user."
             }],
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/wordpress.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/wordpress.png",
             "name": "wordpress",
             "note": "Deploys a WordPress instance connected to a MySQL database.",
             "platform": "linux",
@@ -937,7 +937,7 @@
                     "description": "Secret token used to log into Vault (don't include '.' character)."
                 }
             ],
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/intel.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/intel.png",
             "name": "openamt",
             "note": "MPS password needs to be 8-32 characters including one uppercase, one lowercase letters, one base-10 digit and one special character.",
             "platform": "linux",
@@ -964,7 +964,7 @@
                     "description": "Azure primary key"
                 }
             ],
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/microsoft.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/microsoft.png",
             "name": "microsoft-oms-agent",
             "platform": "linux",
             "repository": {
@@ -989,7 +989,7 @@
                     "label": "SPM monitoring token"
                 }
             ],
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/sematext_agent.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/sematext_agent.png",
             "name": "sematext-docker-agent",
             "platform": "linux",
             "repository": {
@@ -1008,7 +1008,7 @@
                 "name": "API_KEY",
                 "label": "Datadog API key"
             }],
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/datadog_agent.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/datadog_agent.png",
             "name": "datadog-agent",
             "platform": "linux",
             "repository": {
@@ -1043,7 +1043,7 @@
                     "label": "API Password"
                 }
             ],
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/intel.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/intel.png",
             "name": "fdo",
             "platform": "linux",
             "repository": {
@@ -1673,7 +1673,7 @@
                 }
             ],
             "image": "linuxserver/daapd:latest",
-            "logo": "https://raw.githubusercontent.com/linuxserver/beta-templates/master/lsiodev/img/daapd-icon.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/daapd-icon.png",
             "name": "daapd",
             "platform": "linux",
             "restart_policy": "unless-stopped",
@@ -1832,7 +1832,7 @@
                 }
             ],
             "image": "linuxserver/domoticz:latest",
-            "logo": "https://github.com/domoticz/domoticz/raw/master/www/images/logo.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/domoticz.png",
             "name": "domoticz",
             "platform": "linux",
             "ports": [
@@ -2005,7 +2005,7 @@
             ],
             "description": "Web File Browser which can be used as a middleware or standalone app.",
             "image": "80x86/filebrowser:latest",
-            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/filebrowser.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/file-browser.png",
             "name": "filebrowser",
             "note": "The default user and password is admin/admin.",
             "platform": "linux",
@@ -2804,7 +2804,7 @@
                 }
             ],
             "image": "linuxserver/minetest:latest",
-            "logo": "https://raw.githubusercontent.com/linuxserver/beta-templates/master/lsiodev/img/minetest-icon.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/minetest-icon.png",
             "name": "minetest",
             "platform": "linux",
             "ports": [
@@ -3247,7 +3247,7 @@
                 }
             ],
             "image": "linuxserver/oscam:latest",
-            "logo": "http://i.imgur.com/8LadrLg.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/oscam.png",
             "name": "oscam",
             "platform": "linux",
             "ports": [
@@ -3442,7 +3442,7 @@
                     "name": "PORT"
                 }
             ],
-            "logo": "https://raw.githubusercontent.com/docker-library/docs/9d36b4ed7cabc35dbd3849272ba2bd7abe482172/owncloud/logo.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/owncloud.png",
             "name": "Owncloud",
             "note": "The database user is owncloud and the database is owncloud.",
             "platform": "linux",
@@ -3660,7 +3660,7 @@
                 }
             ],
             "image": "linuxserver/plexrequests:latest",
-            "logo": "https://raw.githubusercontent.com/linuxserver/beta-templates/master/lsiodev/img/plexrequests-icon.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/plexrequests-icon.png",
             "name": "plexrequests",
             "platform": "linux",
             "ports": [
@@ -3994,7 +3994,7 @@
                 }
             ],
             "image": "linuxserver/rutorrent:latest",
-            "logo": "https://raw.githubusercontent.com/linuxserver/beta-templates/master/lsiodev/img/rutorrent-icon.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/rutorrent-icon.png",
             "name": "rutorrent",
             "platform": "linux",
             "ports": [
@@ -4357,7 +4357,7 @@
                 }
             ],
             "image": "linuxserver/thelounge:latest",
-            "logo": "https://raw.githubusercontent.com/linuxserver/community-templates/master/lsiocommunity/img/shout-icon.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/shout-icon.png",
             "name": "thelounge",
             "platform": "linux",
             "ports": [
@@ -4541,7 +4541,7 @@
                 }
             ],
             "image": "linuxserver/tvheadend:latest",
-            "logo": "http://i.imgur.com/zGSUAT4.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/tvheadend.png",
             "name": "tvheadend",
             "platform": "linux",
             "ports": [
@@ -4751,7 +4751,7 @@
             ],
             "description": "A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.",
             "image": "selfhostedpro/yacht:latest",
-            "logo": "https://raw.githubusercontent.com/SelfhostedPro/Yacht/master/readme_media/Yacht_logo_1_dark.png",
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/Yacht_logo_1_dark.png",
             "name": "yacht",
             "platform": "linux",
             "ports": [
