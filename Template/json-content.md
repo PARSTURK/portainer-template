@@ -46,6 +46,7 @@
     - Messenger
     - Monitoring
     - Music
+    - Notes
     - OMS
     - Operating System
     - Other

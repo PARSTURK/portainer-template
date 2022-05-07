@@ -40,6 +40,11 @@ All templates are already configured to bind mount to various places on your dri
 - [ ] Yourls (https://yourls.org/)
 - [ ] Standard Notes (https://standardnotes.com/)
 - [ ] Docusaurus (https://docusaurus.io/)
+- [ ] Are We Down (https://github.com/shukriadams/arewedown)
+- [ ] PingMe (https://pingme.lmno.pk/)
+- [ ] KeeWeb (https://keeweb.info/)
+- [ ] Bitwarden (https://bitwarden.com/)
+- [ ] Focalboard (https://www.focalboard.com/)
 
 ## App List
   - Adguard
@@ -203,6 +208,11 @@ Tüm þablonlar, sürücünüzdeki çeþitli yerlere baðlayacak þekilde yapýlandýrýlmýþt
 - [ ] Yourls (https://yourls.org/)
 - [ ] Standard Notes (https://standardnotes.com/)
 - [ ] Docusaurus (https://docusaurus.io/)
+- [ ] Are We Down (https://github.com/shukriadams/arewedown)
+- [ ] PingMe (https://pingme.lmno.pk/)
+- [ ] KeeWeb (https://keeweb.info/)
+- [ ] Bitwarden (https://bitwarden.com/)
+- [ ] Focalboard (https://www.focalboard.com/)
 
 ## Uygulama Listesi
   - Adguard
