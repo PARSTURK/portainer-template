@@ -167,37 +167,37 @@ url: `https://raw.githubusercontent.com/portainer/templates/master/templates-2.0
 ---
 ## TR
 
-# Kendi Kendine Barındırılan Projeler için Portainer V2 Şablonları
+# Kendi Kendine BarÄ±ndÄ±rÄ±lan Projeler iÃ§in Portainer V2 ÅablonlarÄ±
 
-Bu, insanların Portainer kullanarak kendi kendine barındırılan hizmetleri başlatmasına yardımcı olmaya odaklanan bir şablondur.
+Bu, insanlarÄ±n Portainer kullanarak kendi kendine barÄ±ndÄ±rÄ±lan hizmetleri baÅŸlatmasÄ±na yardÄ±mcÄ± olmaya odaklanan bir ÅŸablondur.
 
 url: `https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Template/template-v2.json`
 
-### Önkoşullar
+### Ã–nkoÅŸullar
 
-1. Docker'ın kurulu olduğu bir sunucu/NAS
+1. Docker'Ä±n kurulu olduÄŸu bir sunucu/NAS
 2. Bir Portainer kurulumu.
 
-*Bizde olmayan bir şey mi istiyorsunuz? Bir sorun oluşturun ve eklemeye çalışalım*
+*Bizde olmayan bir ÅŸey mi istiyorsunuz? Bir sorun oluÅŸturun ve eklemeye Ã§alÄ±ÅŸalÄ±m*
 
-### Yükleme
-1. Portainer kurulumunuza giriş yapın, ayarlara gidin
-2. Harici şablonları kullan'ı etkinleştirin
-3. URL'yi ekleyin: `https://raw.githubusercontent.com/PARSTURK/porttainer-template/master/Template/template-v2.json`, ardından uygulama şablonlarına gidin ve en üstteki yenile düğmesine basın.
+### YÃ¼kleme
+1. Portainer kurulumunuza giriÅŸ yapÄ±n, ayarlara gidin
+2. Harici ÅŸablonlarÄ± kullan'Ä± etkinleÅŸtirin
+3. URL'yi ekleyin: `https://raw.githubusercontent.com/PARSTURK/porttainer-template/master/Template/template-v2.json`, ardÄ±ndan uygulama ÅŸablonlarÄ±na gidin ve en Ã¼stteki yenile dÃ¼ÄŸmesine basÄ±n.
 
 ### Bilgi
-Tüm şablonlar, sürücünüzdeki çeşitli yerlere bağlayacak şekilde yapılandırılmıştır. Bu dal OMV'ye ihtiyaç duymadan çalışır. Aşağıdaki klasörlerin tümü /portiner/ içinde oluşturulur.
+TÃ¼m ÅŸablonlar, sÃ¼rÃ¼cÃ¼nÃ¼zdeki Ã§eÅŸitli yerlere baÄŸlayacak ÅŸekilde yapÄ±landÄ±rÄ±lmÄ±ÅŸtÄ±r. Bu dal OMV'ye ihtiyaÃ§ duymadan Ã§alÄ±ÅŸÄ±r. AÅŸaÄŸÄ±daki klasÃ¶rlerin tÃ¼mÃ¼ /portiner/ iÃ§inde oluÅŸturulur.
 
 * **Files** - Genel dosya depolama.
-  * **AppData** - Uygulama verilerinin (sunulan verilerle ilgisi olmayan) depolandığı alt klasör.
-    * **Config** - Her kapsayıcı için yapılandırma dosyalarının depolandığı alt klasör.
-* **Downloads** - Bittorrent ve usenet indiricilerinin dosyaları indirdiği yer.
-* **TV** - TV şovlarının indirildikten sonra depolandığı/taşındığı yer.
-* **Movies** - Filmlerin indirildikten sonra depolandığı/taşındığı yer.
-* **Music** - Müziğin indirildikten sonra depolandığı/taşındığı yer.
-* **Books** - Kitapların indirildikten sonra depolandığı/taşındığı yer.
-* **Comics** - Çizgi romanların indirildikten sonra depolandığı/taşındığı yer.
-* **Podcasts** - Podcast'lerin indirildikten sonra depolandığı/taşındığı yer.
+  * **AppData** - Uygulama verilerinin (sunulan verilerle ilgisi olmayan) depolandÄ±ÄŸÄ± alt klasÃ¶r.
+    * **Config** - Her kapsayÄ±cÄ± iÃ§in yapÄ±landÄ±rma dosyalarÄ±nÄ±n depolandÄ±ÄŸÄ± alt klasÃ¶r.
+* **Downloads** - Bittorrent ve usenet indiricilerinin dosyalarÄ± indirdiÄŸi yer.
+* **TV** - TV ÅŸovlarÄ±nÄ±n indirildikten sonra depolandÄ±ÄŸÄ±/taÅŸÄ±ndÄ±ÄŸÄ± yer.
+* **Movies** - Filmlerin indirildikten sonra depolandÄ±ÄŸÄ±/taÅŸÄ±ndÄ±ÄŸÄ± yer.
+* **Music** - MÃ¼ziÄŸin indirildikten sonra depolandÄ±ÄŸÄ±/taÅŸÄ±ndÄ±ÄŸÄ± yer.
+* **Books** - KitaplarÄ±n indirildikten sonra depolandÄ±ÄŸÄ±/taÅŸÄ±ndÄ±ÄŸÄ± yer.
+* **Comics** - Ã‡izgi romanlarÄ±n indirildikten sonra depolandÄ±ÄŸÄ±/taÅŸÄ±ndÄ±ÄŸÄ± yer.
+* **Podcasts** - Podcast'lerin indirildikten sonra depolandÄ±ÄŸÄ±/taÅŸÄ±ndÄ±ÄŸÄ± yer.
 
 ## Planlanan Uygulamalar
 - [ ] Wekan (https://wekan.github.io/)
@@ -319,14 +319,14 @@ Tüm şablonlar, sürücünüzdeki çeşitli yerlere bağlayacak şekilde yapılandırılmışt
   - Youtubedl-material
   - Znc
 
-## Katkı
-Katkıda bulunmak istiyorsanız, bir talepte bulunun, bir sorun oluşturun veya bana e-posta gönderin.
+## KatkÄ±
+KatkÄ±da bulunmak istiyorsanÄ±z, bir talepte bulunun, bir sorun oluÅŸturun veya bana e-posta gÃ¶nderin.
 
-## Teşekkür
-* Eski Şablon için LinuxServer.io
-* Toplulukta harika ürün ve destek için Portainer'ın arkasındaki ekip
+## TeÅŸekkÃ¼r
+* Eski Åablon iÃ§in LinuxServer.io
+* Toplulukta harika Ã¼rÃ¼n ve destek iÃ§in Portainer'Ä±n arkasÄ±ndaki ekip
 
-## Orjinal Portainer Şablonu
-Şablonumu beğenmediyseniz, orijinal Portainer şablonuna dönebilmeniz için adresi buraya bırakıyorum.
+## Orjinal Portainer Åablonu
+Åablonumu beÄŸenmediyseniz, orijinal Portainer ÅŸablonuna dÃ¶nebilmeniz iÃ§in adresi buraya bÄ±rakÄ±yorum.
 
 url: `https://raw.githubusercontent.com/portainer/templates/master/templates-2.0.json`
