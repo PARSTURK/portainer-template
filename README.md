@@ -45,6 +45,7 @@ All templates are already configured to bind mount to various places on your dri
 - [ ] KeeWeb (https://keeweb.info/)
 - [ ] Bitwarden (https://bitwarden.com/)
 - [ ] Focalboard (https://www.focalboard.com/)
+- [ ] Change Detection (https://github.com/dgtlmoon/changedetection.io)
 
 ## App List
   - Adguard
@@ -213,6 +214,7 @@ Tüm şablonlar, sürücünüzdeki çeşitli yerlere bağlayacak şekilde yapıl
 - [ ] KeeWeb (https://keeweb.info/)
 - [ ] Bitwarden (https://bitwarden.com/)
 - [ ] Focalboard (https://www.focalboard.com/)
+- [ ] Change Detection (https://github.com/dgtlmoon/changedetection.io)
 
 ## Uygulama Listesi
   - Adguard
