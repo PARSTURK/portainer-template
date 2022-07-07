@@ -893,10 +893,6 @@
             "name": "wordpress",
             "note": "Deploys a WordPress instance connected to a MySQL database. Type:3",
             "platform": "linux",
-            "ports": [
-                "80/tcp",
-                "443/tcp"
-            ],
             "repository": {
                 "url": "https://github.com/PARSTURK/portainer-template",
                 "stackfile": "Stacks/wordpress/docker-compose.yml"
