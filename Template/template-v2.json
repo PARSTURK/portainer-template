@@ -860,6 +860,48 @@
         },
         {
             "categories": [
+                "CMS"
+            ],
+            "description": "WordPress setup with a MySQL database",
+            "env": [{
+                "name": "MYSQL_DATABASE_PASSWORD",
+                "label": "Database root password",
+                "description": "Password used by the MySQL root user."
+            }],
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/wordpress.png",
+            "name": "wordpress",
+            "note": "Deploys a WordPress instance connected to a MySQL database.",
+            "platform": "linux",
+            "repository": {
+                "url": "https://github.com/PARSTURK/portainer-template",
+                "stackfile": "Stacks/wordpress/docker-compose.yml"
+            },
+            "title": "WordPress",
+            "type": 2
+        },
+        {
+            "categories": [
+                "CMS"
+            ],
+            "description": "WordPress setup with a MySQL database",
+            "env": [{
+                "name": "MYSQL_DATABASE_PASSWORD",
+                "label": "Database root password",
+                "description": "Password used by the MySQL root user."
+            }],
+            "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/wordpress.png",
+            "name": "wordpress",
+            "note": "Deploys a WordPress instance connected to a MySQL database.",
+            "platform": "linux",
+            "repository": {
+                "url": "https://github.com/PARSTURK/portainer-template",
+                "stackfile": "Stacks/wordpress/docker-compose.yml"
+            },
+            "title": "WordPress",
+            "type": 3
+        },
+        {
+            "categories": [
                 "Cloud"
             ],
             "description": "OpenAMT Cloud Toolkit",
