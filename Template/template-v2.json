@@ -870,7 +870,7 @@
             }],
             "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/wordpress.png",
             "name": "wordpress",
-            "note": "Deploys a WordPress instance connected to a MySQL database.",
+            "note": "Deploys a WordPress instance connected to a MySQL database. Type:2",
             "platform": "linux",
             "repository": {
                 "url": "https://github.com/PARSTURK/portainer-template",
@@ -891,7 +891,7 @@
             }],
             "logo": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Images/wordpress.png",
             "name": "wordpress",
-            "note": "Deploys a WordPress instance connected to a MySQL database.",
+            "note": "Deploys a WordPress instance connected to a MySQL database. Type:3",
             "platform": "linux",
             "repository": {
                 "url": "https://github.com/PARSTURK/portainer-template",
@@ -1020,7 +1020,7 @@
         },
         {
             "description": "Wordpress setup with a MySQL database",
-            "note": "Deploys a Wordpress instance connected to a MySQL database.",
+            "note": "Deploys a Wordpress instance connected to a MySQL database. Type:4",
             "stackfile": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Stacks/wordpress/docker-compose.yml",
             "title": "Wordpress",
             "type": 4
