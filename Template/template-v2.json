@@ -1021,7 +1021,7 @@
         {
             "description": "Wordpress setup with a MySQL database",
             "note": "Deploys a Wordpress instance connected to a MySQL database.",
-            "stackfile": "https://raw.githubusercontent.com/portainer/templates/master/stacks/wordpress/edge/docker-stack.yml",
+            "stackfile": "https://raw.githubusercontent.com/PARSTURK/portainer-template/master/Stacks/wordpress/docker-compose.yml",
             "title": "Wordpress",
             "type": 4
         },
